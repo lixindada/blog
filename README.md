@@ -1,4 +1,3 @@
-# bug 记录
 ### 1. keepAlive + vue-router 实现记录位置
 index.js
 ```
